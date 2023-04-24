@@ -86,7 +86,7 @@ class Home extends React.Component{
                                 <div className="newsletter-card">
                                     <div className="card-content">
                                         <h3 className="h3 card-title">
-                                            Sign Up For Our Newsletter. It’s Free!
+                                            Sign Up For Latest Updates. It’s Free!
                                         </h3>
                                         <p className="card-text">
                                             Join the Vuesic community today and enjoy endless hours of
@@ -150,7 +150,7 @@ class Home extends React.Component{
                                     <p className="social-title">Follow Us On:</p>
                                     <ul className="social-list">
                                         <li>
-                                            <a href="#" className="social-link">
+                                            <a href="https://github.com/Abhishek-Mallick/VUESIC" className="social-link">
                                                 <ion-icon name="logo-github" />
                                             </a>
                                         </li>
